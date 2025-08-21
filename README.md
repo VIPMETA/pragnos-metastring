@@ -1,2 +1,16 @@
-# pragnos-metastring
-PragnOS MetaSystem is a mobile-first AI hub integrating symbolic layers and metastrings to centralize, automate, and optimize tasks. It captures, stores, and applies knowledge, empowering users to expand, monetize, and interact with their digital ecosystem seamlessly.
+# PRAGNOS METASYSTEM
+
+Welcome to **PRAGNOS MetaSystem** – the central repository for development and maintenance of the PragnOS ecosystem.
+
+## 📂 Structure
+
+- `src/` – source code and modules  
+- `docs/` – documentation and user guides  
+- `gpt-knowledge/` – encrypted knowledge and AI synchronization layers  
+
+## 🚀 Quick Start
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/VIPMETA/PragnosMetaVip.git
+   cd PragnosMetaVip
